@@ -16,6 +16,7 @@ date: 2024-11-02
 
 🍋 *[Department of Computer Science & Technology](https://www.cst.cam.ac.uk), University of Cambridge, U.K.*  
 🍊 *[ALTA Institute](https://alta.cam.ac.uk), University of Cambridge, U.K.*  
+[Arxiv Pre-Print, accepted (poster), BabyLM Shared Task, CoNLL 2024](https://arxiv.org/abs/2410.22886)
 
 ---
 
@@ -26,7 +27,6 @@ Curriculum Learning has been a popular strategy to improve the cognitive plausib
 **Contact**:  
 - Suchir Salhan: [sas245@cam.ac.uk](mailto:sas245@cam.ac.uk)  
 
-[Arxiv Pre-Print]([https://alta.cam.ac.uk](https://arxiv.org/abs/2410.22886))
 
 ```
 Salhan, S.A., Martinez, R. D.,  Goriely, Z., & Buttery, P. (2024, November). Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies. In Proceedings of the BabyLM Challenge at the 28th Conference on Computational Natural Language Learning (pp. 112-127).
