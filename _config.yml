@@ -1,13 +1,13 @@
 # Setup
-title:               Foundations of Deep Learning
-tagline:             NYU Tandon, Spring 2022
+title:               Small & Cognitively-Inspired Language Models
+tagline:             Natural Language & Information Processing Group, University of Cambridge
 description:         >- # this means to ignore newlines until "url:"
   Quicklinks
 url:                 https://suchirsalhan.github.io
-baseurl:             '/fodl' # the subpath of your site, e.g. /blog
+baseurl:             '/slm' # the subpath of your site, e.g. /blog
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: magenta
 
 # Permalinks
 permalink: pretty
