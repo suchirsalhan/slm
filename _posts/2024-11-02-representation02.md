@@ -5,9 +5,6 @@ categories: representation
 date: 2024-11-02
 ---
 
-~~~
-How can human language acquisition be used to design more cognitively-plausible language models? 
-~~~
 
 
 # Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies
@@ -17,9 +14,8 @@ How can human language acquisition be used to design more cognitively-plausible 
 **Zebulon Goriely** 🍋  
 **Paula Buttery** 🍋🍊  
 
-🍋 *Department of Computer Science & Technology, University of Cambridge, U.K.*  
-🍊 *ALTA Institute, University of Cambridge, U.K.*  
-**Contact**: sas245@cam.ac.uk
+🍋 *[Department of Computer Science & Technology](https://www.cst.cam.ac.uk), University of Cambridge, U.K.*  
+🍊 *[ALTA Institute](https://alta.cam.ac.uk), University of Cambridge, U.K.*  
 
 ---
 
@@ -27,8 +23,10 @@ How can human language acquisition be used to design more cognitively-plausible 
 
 Curriculum Learning has been a popular strategy to improve the cognitive plausibility of Small-Scale Language Models (SSLMs) in the BabyLM Challenge. However, it has not led to considerable improvements over non-curriculum models. We assess whether theoretical linguistic acquisition theories can be used to specify more fine-grained curriculum learning strategies, creating age-ordered corpora of Child-Directed Speech for four typologically distant language families to implement SSLMs and acquisition-inspired curricula cross-lingually. Comparing the success of three objective curricula (Growing, Inwards, and MMM) that precisely replicate the predictions of acquisition theories on a standard SSLM architecture, we find fine-grained acquisition-inspired curricula can outperform non-curriculum baselines. Performance benefits of curriculum strategies in SSLMs can be derived by specifying fine-grained, language-specific curricula that precisely replicate language acquisition theories.
 
-https://arxiv.org/abs/2410.22886
+**Contact**:  
+- Suchir Salhan: [sas245@cam.ac.uk](mailto:sas245@cam.ac.uk)  
 
+[Arxiv Pre-Print]([https://alta.cam.ac.uk](https://arxiv.org/abs/2410.22886))
 
 ```
 Salhan, S.A., Martinez, R. D.,  Goriely, Z., & Buttery, P. (2024, November). Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies. In Proceedings of the BabyLM Challenge at the 28th Conference on Computational Natural Language Learning (pp. 112-127).
@@ -64,7 +62,6 @@ Salhan, S.A., Martinez, R. D.,  Goriely, Z., & Buttery, P. (2024, November). Les
 }
 ```
 
-** _COMPLETE_ **.
 
 ---
 
